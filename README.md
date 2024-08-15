@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adyasha Pattanayak</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/b5/95/e5/b595e503a0d6bdc50fe89ac05d162e87.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adyashapattanayak&label=Profile%20views&color=0e75b6&style=flat" alt="adyashapattanayak" /> </p>
 
